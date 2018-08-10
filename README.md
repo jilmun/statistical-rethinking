@@ -1,2 +1,3 @@
-# statistical-rethinking
-Notes and Student Solutions for Statistical Rethinking (2015) by Richard McElreath
+# Statistical Rethinking Notes and Student Solutions
+
+Web link https://yahwes.github.io/statistical-rethinking
