@@ -1,0 +1,18 @@
+---
+title: "Statistical Rethinking Computation"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(cache=TRUE)
+```
+
+### Chapter 1: 
+
+```{r ch1, message=FALSE, warning=FALSE}
+rm(list = ls())
+#
+#
+
+```
+

@@ -1,0 +1,16 @@
+---
+title: "Statistical Rethinking Student Solutions"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(cache=TRUE)
+```
+
+### Exercise 1.1
+
+```{r ex1.1, message=FALSE, warning=FALSE}
+#
+#
+
+```
